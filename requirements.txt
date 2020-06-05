@@ -2,7 +2,7 @@ beautifulsoup4==4.6.3
 certifi==2018.10.15
 chardet==3.0.4
 Click==7.0
-Django==1.11
+Django==1.11.29
 django-cors-headers==2.4.0
 django-rest-framework==0.1.0
 djangorestframework==3.9.0
